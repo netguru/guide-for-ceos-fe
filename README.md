@@ -7,7 +7,7 @@ This repository contains content of Frontend Development - Quick Guide for CEOs 
 1. Clone repository
 
 ```
-git clone git@github.com:netguru/design-process.git
+git clone git@github.com:netguru/guide-for-ceos-fe.git
 ```
 
 2. Install all dependencies
