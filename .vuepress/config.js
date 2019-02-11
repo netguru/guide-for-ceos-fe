@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Frontend Development - Quick Guide for CEOs",
+  title: "",
   description: "tbd",
   theme: "live-ebook",
   base: "/",
@@ -7,15 +7,15 @@ module.exports = {
     ["link", { rel: "icon", href: "/images/favicon.ico" }],
     ["meta", { property: "og:type", content: "website" }]
   ],
-  ga: "UA-259047-66",
+  ga: "",
 
   themeConfig: {
     bookTitle: "Frontend Development",
-    baseUrl: "https://design-process.netguru.co",
-    exitUrl: "https://www.netguru.co/",
+    baseUrl: "https://frontend-guide.netguru.com",
+    exitUrl: "https://www.netguru.com/",
     company: {
       name: "Netguru",
-      url: "https://www.netguru.co",
+      url: "https://www.netguru.com",
       logo: "/images/netguru.svg"
     },
     twitter: "netguru"
