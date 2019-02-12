@@ -5,7 +5,10 @@ module.exports = {
   base: "/",
   head: [
     ["link", { rel: "icon", href: "/images/favicon.ico" }],
-    ["meta", { property: "og:type", content: "website" }]
+    ["meta", { property: "og:type", content: "website" }],
+    ["script", { charset: "utf-8", src: "https://js.hscta.net/cta/current.js" }],
+    ["script", {}, "hbspt.cta.load(493098, '8b6650f9-8488-455c-a3c0-691986954263', {});"],
+    ["script", {}, '!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src="https://www.googletagmanager.com/gtm.js?id=GTM-PZBJBZV",m.parentNode.insertBefore(r,m)}(window,document,"script","dataLayer");'],
   ],
   ga: "",
 
