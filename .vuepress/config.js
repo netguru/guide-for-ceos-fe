@@ -1,6 +1,6 @@
 module.exports = {
   title: "",
-  description: "tbd",
+  description: "This is a guide for executives who want to know enough to understand how and why certain decisions will be made during development, what brings the biggest risks, why and how to avoid those risks.",
   theme: "live-ebook",
   base: "/",
   head: [
