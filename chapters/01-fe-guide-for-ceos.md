@@ -151,3 +151,16 @@ At Netguru, we help not only with development, but also with the business side o
 Your own developer or freelancer can shut down ideas in multiple ways - he can be a poor coder, a bad communicator, a tyrant or a non-assertive introvert. Not every ninja has good communication skills, understands problems from the business point of view or can suggest the best solutions.
 
 Netguru is a guarantee of well-versed specialists with great organization and communication skills, in addition to great coding skills. Everything we do is based on talking with clients, understanding business problems, and applying technical solutions.
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PZBJBZV');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZBJBZV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
