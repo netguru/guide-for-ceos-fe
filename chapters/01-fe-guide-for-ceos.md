@@ -152,15 +152,19 @@ Your own developer or freelancer can shut down ideas in multiple ways - he can b
 
 Netguru is a guarantee of well-versed specialists with great organization and communication skills, in addition to great coding skills. Everything we do is based on talking with clients, understanding business problems, and applying technical solutions.
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PZBJBZV');</script>
-<!-- End Google Tag Manager -->
+<!-- HubSpot Call-to-Action Code -->
+<span class="hs-cta-wrapper" id="hs-cta-wrapper-8b6650f9-8488-455c-a3c0-691986954263">
+  <span class="hs-cta-node hs-cta-8b6650f9-8488-455c-a3c0-691986954263" id="hs-cta-8b6650f9-8488-455c-a3c0-691986954263">
+    <!--[if lte IE 8]>
+     <div id="hs-cta-ie-element"></div>
+     <![endif]-->
+    <a href="https://cta-redirect.hubspot.com/cta/redirect/493098/8b6650f9-8488-455c-a3c0-691986954263"><img class="hs-cta-img"
+        id="hs-cta-img-8b6650f9-8488-455c-a3c0-691986954263" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/493098/8b6650f9-8488-455c-a3c0-691986954263.png"
+        alt="software developers" /></a>
+  </span>
+</span>
+<!-- end HubSpot Call-to-Action Code -->
 
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZBJBZV"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZBJBZV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
