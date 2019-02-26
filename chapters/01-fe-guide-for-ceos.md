@@ -159,7 +159,7 @@ Netguru is a guarantee of well-versed specialists with great organization and co
      <div id="hs-cta-ie-element"></div>
      <![endif]-->
     <a href="https://cta-redirect.hubspot.com/cta/redirect/493098/8b6650f9-8488-455c-a3c0-691986954263"><img class="hs-cta-img"
-        id="hs-cta-img-8b6650f9-8488-455c-a3c0-691986954263" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/493098/8b6650f9-8488-455c-a3c0-691986954263.png"
+        id="hs-cta-img-8b6650f9-8488-455c-a3c0-691986954263" style="border-width:0px; max-width: 100%;" src="https://no-cache.hubspot.com/cta/default/493098/8b6650f9-8488-455c-a3c0-691986954263.png"
         alt="software developers" /></a>
   </span>
 </span>
